@@ -1,0 +1,11 @@
+*.exe
+*.dll
+*.bin
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+*.i64
+build/
+__pycache__/

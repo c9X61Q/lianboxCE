@@ -1,0 +1,2114 @@
+[
+ {
+  "addr": "0x0040eff0",
+  "name": "sub_40EFF0",
+  "size": 5917,
+  "file": "sub_40EFF0_0040eff0.c"
+ },
+ {
+  "addr": "0x0040b9c7",
+  "name": "sha1_block",
+  "size": 4847,
+  "file": "sha1_block_0040b9c7.c"
+ },
+ {
+  "addr": "0x0040cf18",
+  "name": "sub_40CF18",
+  "size": 1818,
+  "file": "sub_40CF18_0040cf18.c"
+ },
+ {
+  "addr": "0x00403f53",
+  "name": "runtime_init",
+  "size": 1777,
+  "file": "runtime_init_00403f53.c"
+ },
+ {
+  "addr": "0x00409a1f",
+  "name": "launch_payload",
+  "size": 1325,
+  "file": "launch_payload_00409a1f.c"
+ },
+ {
+  "addr": "0x004026c7",
+  "name": "resource_worker",
+  "size": 1190,
+  "file": "resource_worker_004026c7.c"
+ },
+ {
+  "addr": "0x004117c0",
+  "name": "sub_4117C0",
+  "size": 1118,
+  "file": "sub_4117C0_004117c0.c"
+ },
+ {
+  "addr": "0x00401511",
+  "name": "init_config",
+  "size": 1115,
+  "file": "init_config_00401511.c"
+ },
+ {
+  "addr": "0x00411c20",
+  "name": "sub_411C20",
+  "size": 1043,
+  "file": "sub_411C20_00411c20.c"
+ },
+ {
+  "addr": "0x00403801",
+  "name": "sub_403801",
+  "size": 1001,
+  "file": "sub_403801_00403801.c"
+ },
+ {
+  "addr": "0x00408f69",
+  "name": "sub_408F69",
+  "size": 905,
+  "file": "sub_408F69_00408f69.c"
+ },
+ {
+  "addr": "0x00406310",
+  "name": "sub_406310",
+  "size": 819,
+  "file": "sub_406310_00406310.c"
+ },
+ {
+  "addr": "0x004011ef",
+  "name": "rc4_crypt",
+  "size": 802,
+  "file": "rc4_crypt_004011ef.c"
+ },
+ {
+  "addr": "0x00410ca0",
+  "name": "crc32",
+  "size": 771,
+  "file": "crc32_00410ca0.c"
+ },
+ {
+  "addr": "0x00412154",
+  "name": "sub_412154",
+  "size": 726,
+  "file": "sub_412154_00412154.c"
+ },
+ {
+  "addr": "0x00403539",
+  "name": "sub_403539",
+  "size": 712,
+  "file": "sub_403539_00403539.c"
+ },
+ {
+  "addr": "0x00401ba0",
+  "name": "unpack_initiate",
+  "size": 710,
+  "file": "unpack_initiate_00401ba0.c"
+ },
+ {
+  "addr": "0x00411170",
+  "name": "sub_411170",
+  "size": 704,
+  "file": "sub_411170_00411170.c"
+ },
+ {
+  "addr": "0x0040eac0",
+  "name": "sub_40EAC0",
+  "size": 636,
+  "file": "sub_40EAC0_0040eac0.c"
+ },
+ {
+  "addr": "0x00406cf0",
+  "name": "sub_406CF0",
+  "size": 626,
+  "file": "sub_406CF0_00406cf0.c"
+ },
+ {
+  "addr": "0x00411550",
+  "name": "sub_411550",
+  "size": 620,
+  "file": "sub_411550_00411550.c"
+ },
+ {
+  "addr": "0x00402150",
+  "name": "sub_402150",
+  "size": 616,
+  "file": "sub_402150_00402150.c"
+ },
+ {
+  "addr": "0x00403221",
+  "name": "get_windir",
+  "size": 604,
+  "file": "get_windir_00403221.c"
+ },
+ {
+  "addr": "0x00402fad",
+  "name": "sub_402FAD",
+  "size": 578,
+  "file": "sub_402FAD_00402fad.c"
+ },
+ {
+  "addr": "0x0040196c",
+  "name": "sub_40196C",
+  "size": 564,
+  "file": "sub_40196C_0040196c.c"
+ },
+ {
+  "addr": "0x00406a80",
+  "name": "sub_406A80",
+  "size": 551,
+  "file": "sub_406A80_00406a80.c"
+ },
+ {
+  "addr": "0x00405ba0",
+  "name": "sub_405BA0",
+  "size": 500,
+  "file": "sub_405BA0_00405ba0.c"
+ },
+ {
+  "addr": "0x0040b140",
+  "name": "sub_40B140",
+  "size": 492,
+  "file": "sub_40B140_0040b140.c"
+ },
+ {
+  "addr": "0x00401000",
+  "name": "start",
+  "size": 464,
+  "file": "start_00401000.c"
+ },
+ {
+  "addr": "0x0040249d",
+  "name": "sub_40249D",
+  "size": 455,
+  "file": "sub_40249D_0040249d.c"
+ },
+ {
+  "addr": "0x00410fb0",
+  "name": "sub_410FB0",
+  "size": 440,
+  "file": "sub_410FB0_00410fb0.c"
+ },
+ {
+  "addr": "0x00403c83",
+  "name": "sub_403C83",
+  "size": 436,
+  "file": "sub_403C83_00403c83.c"
+ },
+ {
+  "addr": "0x00402c55",
+  "name": "sub_402C55",
+  "size": 430,
+  "file": "sub_402C55_00402c55.c"
+ },
+ {
+  "addr": "0x00409355",
+  "name": "sub_409355",
+  "size": 380,
+  "file": "sub_409355_00409355.c"
+ },
+ {
+  "addr": "0x0041252f",
+  "name": "sub_41252F",
+  "size": 373,
+  "file": "sub_41252F_0041252f.c"
+ },
+ {
+  "addr": "0x004073c0",
+  "name": "sub_4073C0",
+  "size": 363,
+  "file": "sub_4073C0_004073c0.c"
+ },
+ {
+  "addr": "0x00408280",
+  "name": "sub_408280",
+  "size": 363,
+  "file": "sub_408280_00408280.c"
+ },
+ {
+  "addr": "0x00405573",
+  "name": "sub_405573",
+  "size": 357,
+  "file": "sub_405573_00405573.c"
+ },
+ {
+  "addr": "0x0040dbff",
+  "name": "sub_40DBFF",
+  "size": 350,
+  "file": "sub_40DBFF_0040dbff.c"
+ },
+ {
+  "addr": "0x004077d0",
+  "name": "sub_4077D0",
+  "size": 348,
+  "file": "sub_4077D0_004077d0.c"
+ },
+ {
+  "addr": "0x00408690",
+  "name": "sub_408690",
+  "size": 348,
+  "file": "sub_408690_00408690.c"
+ },
+ {
+  "addr": "0x00407930",
+  "name": "sub_407930",
+  "size": 347,
+  "file": "sub_407930_00407930.c"
+ },
+ {
+  "addr": "0x00407a90",
+  "name": "sub_407A90",
+  "size": 347,
+  "file": "sub_407A90_00407a90.c"
+ },
+ {
+  "addr": "0x004087f0",
+  "name": "sub_4087F0",
+  "size": 347,
+  "file": "sub_4087F0_004087f0.c"
+ },
+ {
+  "addr": "0x00408950",
+  "name": "sub_408950",
+  "size": 347,
+  "file": "sub_408950_00408950.c"
+ },
+ {
+  "addr": "0x00407530",
+  "name": "sub_407530",
+  "size": 335,
+  "file": "sub_407530_00407530.c"
+ },
+ {
+  "addr": "0x004083f0",
+  "name": "sub_4083F0",
+  "size": 335,
+  "file": "sub_4083F0_004083f0.c"
+ },
+ {
+  "addr": "0x00407270",
+  "name": "sub_407270",
+  "size": 330,
+  "file": "sub_407270_00407270.c"
+ },
+ {
+  "addr": "0x00407bf0",
+  "name": "sub_407BF0",
+  "size": 330,
+  "file": "sub_407BF0_00407bf0.c"
+ },
+ {
+  "addr": "0x00407d40",
+  "name": "sub_407D40",
+  "size": 330,
+  "file": "sub_407D40_00407d40.c"
+ },
+ {
+  "addr": "0x00408130",
+  "name": "sub_408130",
+  "size": 330,
+  "file": "sub_408130_00408130.c"
+ },
+ {
+  "addr": "0x00408ab0",
+  "name": "sub_408AB0",
+  "size": 330,
+  "file": "sub_408AB0_00408ab0.c"
+ },
+ {
+  "addr": "0x00408c00",
+  "name": "sub_408C00",
+  "size": 330,
+  "file": "sub_408C00_00408c00.c"
+ },
+ {
+  "addr": "0x00406fd0",
+  "name": "sub_406FD0",
+  "size": 328,
+  "file": "sub_406FD0_00406fd0.c"
+ },
+ {
+  "addr": "0x00407120",
+  "name": "sub_407120",
+  "size": 328,
+  "file": "sub_407120_00407120.c"
+ },
+ {
+  "addr": "0x00407680",
+  "name": "sub_407680",
+  "size": 328,
+  "file": "sub_407680_00407680.c"
+ },
+ {
+  "addr": "0x00407e90",
+  "name": "sub_407E90",
+  "size": 328,
+  "file": "sub_407E90_00407e90.c"
+ },
+ {
+  "addr": "0x00407fe0",
+  "name": "sub_407FE0",
+  "size": 328,
+  "file": "sub_407FE0_00407fe0.c"
+ },
+ {
+  "addr": "0x00408540",
+  "name": "sub_408540",
+  "size": 328,
+  "file": "sub_408540_00408540.c"
+ },
+ {
+  "addr": "0x004059e0",
+  "name": "sub_4059E0",
+  "size": 318,
+  "file": "sub_4059E0_004059e0.c"
+ },
+ {
+  "addr": "0x0040ee80",
+  "name": "sub_40EE80",
+  "size": 311,
+  "file": "sub_40EE80_0040ee80.c"
+ },
+ {
+  "addr": "0x004057f0",
+  "name": "sub_4057F0",
+  "size": 301,
+  "file": "sub_4057F0_004057f0.c"
+ },
+ {
+  "addr": "0x0040de99",
+  "name": "sub_40DE99",
+  "size": 301,
+  "file": "sub_40DE99_0040de99.c"
+ },
+ {
+  "addr": "0x0040973a",
+  "name": "sub_40973A",
+  "size": 292,
+  "file": "sub_40973A_0040973a.c"
+ },
+ {
+  "addr": "0x00403e37",
+  "name": "sub_403E37",
+  "size": 284,
+  "file": "sub_403E37_00403e37.c"
+ },
+ {
+  "addr": "0x0040a330",
+  "name": "sub_40A330",
+  "size": 273,
+  "file": "sub_40A330_0040a330.c"
+ },
+ {
+  "addr": "0x0040b6a0",
+  "name": "sub_40B6A0",
+  "size": 272,
+  "file": "sub_40B6A0_0040b6a0.c"
+ },
+ {
+  "addr": "0x00412722",
+  "name": "sub_412722",
+  "size": 268,
+  "file": "sub_412722_00412722.c"
+ },
+ {
+  "addr": "0x0041242a",
+  "name": "sub_41242A",
+  "size": 261,
+  "file": "sub_41242A_0041242a.c"
+ },
+ {
+  "addr": "0x0040b500",
+  "name": "sub_40B500",
+  "size": 250,
+  "file": "sub_40B500_0040b500.c"
+ },
+ {
+  "addr": "0x0040aeba",
+  "name": "sub_40AEBA",
+  "size": 248,
+  "file": "sub_40AEBA_0040aeba.c"
+ },
+ {
+  "addr": "0x0040478d",
+  "name": "write_file",
+  "size": 241,
+  "file": "write_file_0040478d.c"
+ },
+ {
+  "addr": "0x00406670",
+  "name": "sub_406670",
+  "size": 239,
+  "file": "sub_406670_00406670.c"
+ },
+ {
+  "addr": "0x00410b90",
+  "name": "sub_410B90",
+  "size": 237,
+  "file": "sub_410B90_00410b90.c"
+ },
+ {
+  "addr": "0x00401e66",
+  "name": "sub_401E66",
+  "size": 230,
+  "file": "sub_401E66_00401e66.c"
+ },
+ {
+  "addr": "0x0040469c",
+  "name": "sub_40469C",
+  "size": 225,
+  "file": "sub_40469C_0040469c.c"
+ },
+ {
+  "addr": "0x004061e0",
+  "name": "sub_4061E0",
+  "size": 224,
+  "file": "sub_4061E0_004061e0.c"
+ },
+ {
+  "addr": "0x00409ff0",
+  "name": "sub_409FF0",
+  "size": 224,
+  "file": "sub_409FF0_00409ff0.c"
+ },
+ {
+  "addr": "0x0040e900",
+  "name": "sub_40E900",
+  "size": 223,
+  "file": "sub_40E900_0040e900.c"
+ },
+ {
+  "addr": "0x0040b8b6",
+  "name": "sub_40B8B6",
+  "size": 219,
+  "file": "sub_40B8B6_0040b8b6.c"
+ },
+ {
+  "addr": "0x0040a6c3",
+  "name": "sub_40A6C3",
+  "size": 215,
+  "file": "sub_40A6C3_0040a6c3.c"
+ },
+ {
+  "addr": "0x0040ac12",
+  "name": "sub_40AC12",
+  "size": 210,
+  "file": "sub_40AC12_0040ac12.c"
+ },
+ {
+  "addr": "0x0040b350",
+  "name": "sub_40B350",
+  "size": 207,
+  "file": "sub_40B350_0040b350.c"
+ },
+ {
+  "addr": "0x0040ddcb",
+  "name": "sub_40DDCB",
+  "size": 206,
+  "file": "sub_40DDCB_0040ddcb.c"
+ },
+ {
+  "addr": "0x0040a460",
+  "name": "sub_40A460",
+  "size": 205,
+  "file": "sub_40A460_0040a460.c"
+ },
+ {
+  "addr": "0x00405f90",
+  "name": "sub_405F90",
+  "size": 198,
+  "file": "sub_405F90_00405f90.c"
+ },
+ {
+  "addr": "0x00402eed",
+  "name": "sub_402EED",
+  "size": 192,
+  "file": "sub_402EED_00402eed.c"
+ },
+ {
+  "addr": "0x0040e405",
+  "name": "sub_40E405",
+  "size": 189,
+  "file": "sub_40E405_0040e405.c"
+ },
+ {
+  "addr": "0x0040347d",
+  "name": "sub_40347D",
+  "size": 188,
+  "file": "sub_40347D_0040347d.c"
+ },
+ {
+  "addr": "0x00410810",
+  "name": "sub_410810",
+  "size": 187,
+  "file": "sub_410810_00410810.c"
+ },
+ {
+  "addr": "0x0040d9d3",
+  "name": "sub_40D9D3",
+  "size": 183,
+  "file": "sub_40D9D3_0040d9d3.c"
+ },
+ {
+  "addr": "0x0040b440",
+  "name": "sub_40B440",
+  "size": 182,
+  "file": "sub_40B440_0040b440.c"
+ },
+ {
+  "addr": "0x0040ccb6",
+  "name": "sha1_update",
+  "size": 182,
+  "file": "sha1_update_0040ccb6.c"
+ },
+ {
+  "addr": "0x00408eb4",
+  "name": "sub_408EB4",
+  "size": 181,
+  "file": "sub_408EB4_00408eb4.c"
+ },
+ {
+  "addr": "0x00409588",
+  "name": "sub_409588",
+  "size": 180,
+  "file": "sub_409588_00409588.c"
+ },
+ {
+  "addr": "0x0040e7d0",
+  "name": "sub_40E7D0",
+  "size": 176,
+  "file": "sub_40E7D0_0040e7d0.c"
+ },
+ {
+  "addr": "0x00402ba6",
+  "name": "get_short_path",
+  "size": 175,
+  "file": "get_short_path_00402ba6.c"
+ },
+ {
+  "addr": "0x00410950",
+  "name": "sub_410950",
+  "size": 175,
+  "file": "sub_410950_00410950.c"
+ },
+ {
+  "addr": "0x004051b0",
+  "name": "sub_4051B0",
+  "size": 170,
+  "file": "sub_4051B0_004051b0.c"
+ },
+ {
+  "addr": "0x0040e266",
+  "name": "sub_40E266",
+  "size": 167,
+  "file": "sub_40E266_0040e266.c"
+ },
+ {
+  "addr": "0x0040e30d",
+  "name": "sub_40E30D",
+  "size": 167,
+  "file": "sub_40E30D_0040e30d.c"
+ },
+ {
+  "addr": "0x00402e49",
+  "name": "sub_402E49",
+  "size": 164,
+  "file": "sub_402E49_00402e49.c"
+ },
+ {
+  "addr": "0x0040548c",
+  "name": "sub_40548C",
+  "size": 160,
+  "file": "sub_40548C_0040548c.c"
+ },
+ {
+  "addr": "0x0040ab74",
+  "name": "sub_40AB74",
+  "size": 158,
+  "file": "sub_40AB74_0040ab74.c"
+ },
+ {
+  "addr": "0x0040dfc6",
+  "name": "sub_40DFC6",
+  "size": 156,
+  "file": "sub_40DFC6_0040dfc6.c"
+ },
+ {
+  "addr": "0x0040d632",
+  "name": "sub_40D632",
+  "size": 155,
+  "file": "sub_40D632_0040d632.c"
+ },
+ {
+  "addr": "0x00405e10",
+  "name": "sub_405E10",
+  "size": 154,
+  "file": "sub_405E10_00405e10.c"
+ },
+ {
+  "addr": "0x00403bea",
+  "name": "sub_403BEA",
+  "size": 153,
+  "file": "sub_403BEA_00403bea.c"
+ },
+ {
+  "addr": "0x00405260",
+  "name": "sub_405260",
+  "size": 149,
+  "file": "sub_405260_00405260.c"
+ },
+ {
+  "addr": "0x0040db18",
+  "name": "sub_40DB18",
+  "size": 148,
+  "file": "sub_40DB18_0040db18.c"
+ },
+ {
+  "addr": "0x00405920",
+  "name": "sub_405920",
+  "size": 146,
+  "file": "sub_405920_00405920.c"
+ },
+ {
+  "addr": "0x0040a9c8",
+  "name": "sub_40A9C8",
+  "size": 146,
+  "file": "sub_40A9C8_0040a9c8.c"
+ },
+ {
+  "addr": "0x0040a82a",
+  "name": "sub_40A82A",
+  "size": 145,
+  "file": "sub_40A82A_0040a82a.c"
+ },
+ {
+  "addr": "0x0040e560",
+  "name": "str_assign",
+  "size": 144,
+  "file": "str_assign_0040e560.c"
+ },
+ {
+  "addr": "0x004023b8",
+  "name": "sub_4023B8",
+  "size": 143,
+  "file": "sub_4023B8_004023b8.c"
+ },
+ {
+  "addr": "0x0040a638",
+  "name": "sub_40A638",
+  "size": 139,
+  "file": "sub_40A638_0040a638.c"
+ },
+ {
+  "addr": "0x00405760",
+  "name": "sub_405760",
+  "size": 137,
+  "file": "sub_405760_00405760.c"
+ },
+ {
+  "addr": "0x00406080",
+  "name": "sub_406080",
+  "size": 137,
+  "file": "sub_406080_00406080.c"
+ },
+ {
+  "addr": "0x00412840",
+  "name": "sub_412840",
+  "size": 136,
+  "file": "sub_412840_00412840.c"
+ },
+ {
+  "addr": "0x004020ce",
+  "name": "HandlerRoutine",
+  "size": 130,
+  "file": "HandlerRoutine_004020ce.c"
+ },
+ {
+  "addr": "0x0040a79a",
+  "name": "sub_40A79A",
+  "size": 130,
+  "file": "sub_40A79A_0040a79a.c"
+ },
+ {
+  "addr": "0x004128e0",
+  "name": "sub_4128E0",
+  "size": 130,
+  "file": "sub_4128E0_004128e0.c"
+ },
+ {
+  "addr": "0x00409507",
+  "name": "sub_409507",
+  "size": 129,
+  "file": "sub_409507_00409507.c"
+ },
+ {
+  "addr": "0x0040e0c3",
+  "name": "sub_40E0C3",
+  "size": 129,
+  "file": "sub_40E0C3_0040e0c3.c"
+ },
+ {
+  "addr": "0x0040a5b8",
+  "name": "sub_40A5B8",
+  "size": 128,
+  "file": "sub_40A5B8_0040a5b8.c"
+ },
+ {
+  "addr": "0x0040ad45",
+  "name": "sub_40AD45",
+  "size": 128,
+  "file": "sub_40AD45_0040ad45.c"
+ },
+ {
+  "addr": "0x004126a4",
+  "name": "sub_4126A4",
+  "size": 126,
+  "file": "sub_4126A4_004126a4.c"
+ },
+ {
+  "addr": "0x0040d700",
+  "name": "sub_40D700",
+  "size": 119,
+  "file": "sub_40D700_0040d700.c"
+ },
+ {
+  "addr": "0x00405b20",
+  "name": "sub_405B20",
+  "size": 113,
+  "file": "sub_405B20_00405b20.c"
+ },
+ {
+  "addr": "0x00406160",
+  "name": "fmt_int",
+  "size": 113,
+  "file": "fmt_int_00406160.c"
+ },
+ {
+  "addr": "0x00401fba",
+  "name": "sub_401FBA",
+  "size": 112,
+  "file": "sub_401FBA_00401fba.c"
+ },
+ {
+  "addr": "0x0040dd5d",
+  "name": "sub_40DD5D",
+  "size": 110,
+  "file": "sub_40DD5D_0040dd5d.c"
+ },
+ {
+  "addr": "0x0040b630",
+  "name": "sub_40B630",
+  "size": 108,
+  "file": "sub_40B630_0040b630.c"
+ },
+ {
+  "addr": "0x0040d968",
+  "name": "sub_40D968",
+  "size": 107,
+  "file": "sub_40D968_0040d968.c"
+ },
+ {
+  "addr": "0x0040a54f",
+  "name": "sub_40A54F",
+  "size": 105,
+  "file": "sub_40A54F_0040a54f.c"
+ },
+ {
+  "addr": "0x0040aa5a",
+  "name": "sub_40AA5A",
+  "size": 105,
+  "file": "sub_40AA5A_0040aa5a.c"
+ },
+ {
+  "addr": "0x00405eb0",
+  "name": "sub_405EB0",
+  "size": 104,
+  "file": "sub_405EB0_00405eb0.c"
+ },
+ {
+  "addr": "0x00405f20",
+  "name": "sub_405F20",
+  "size": 103,
+  "file": "sub_405F20_00405f20.c"
+ },
+ {
+  "addr": "0x00402068",
+  "name": "sub_402068",
+  "size": 102,
+  "file": "sub_402068_00402068.c"
+ },
+ {
+  "addr": "0x0040ce8a",
+  "name": "sub_40CE8A",
+  "size": 102,
+  "file": "sub_40CE8A_0040ce8a.c"
+ },
+ {
+  "addr": "0x0040d8a0",
+  "name": "sub_40D8A0",
+  "size": 102,
+  "file": "sub_40D8A0_0040d8a0.c"
+ },
+ {
+  "addr": "0x00410b20",
+  "name": "sub_410B20",
+  "size": 101,
+  "file": "sub_410B20_00410b20.c"
+ },
+ {
+  "addr": "0x0040a120",
+  "name": "sub_40A120",
+  "size": 100,
+  "file": "sub_40A120_0040a120.c"
+ },
+ {
+  "addr": "0x0040b7b0",
+  "name": "sub_40B7B0",
+  "size": 100,
+  "file": "sub_40B7B0_0040b7b0.c"
+ },
+ {
+  "addr": "0x004107a0",
+  "name": "sub_4107A0",
+  "size": 100,
+  "file": "sub_4107A0_004107a0.c"
+ },
+ {
+  "addr": "0x00402664",
+  "name": "load_resource_copy",
+  "size": 99,
+  "file": "load_resource_copy_00402664.c"
+ },
+ {
+  "addr": "0x0040add6",
+  "name": "sub_40ADD6",
+  "size": 99,
+  "file": "sub_40ADD6_0040add6.c"
+ },
+ {
+  "addr": "0x0040a290",
+  "name": "sub_40A290",
+  "size": 98,
+  "file": "sub_40A290_0040a290.c"
+ },
+ {
+  "addr": "0x0040afec",
+  "name": "sub_40AFEC",
+  "size": 98,
+  "file": "sub_40AFEC_0040afec.c"
+ },
+ {
+  "addr": "0x0040b050",
+  "name": "sub_40B050",
+  "size": 98,
+  "file": "sub_40B050_0040b050.c"
+ },
+ {
+  "addr": "0x00409698",
+  "name": "sub_409698",
+  "size": 97,
+  "file": "sub_409698_00409698.c"
+ },
+ {
+  "addr": "0x00401f4c",
+  "name": "TopLevelExceptionFilter",
+  "size": 96,
+  "file": "TopLevelExceptionFilter_00401f4c.c"
+ },
+ {
+  "addr": "0x0040ab16",
+  "name": "sub_40AB16",
+  "size": 94,
+  "file": "sub_40AB16_0040ab16.c"
+ },
+ {
+  "addr": "0x004120a6",
+  "name": "sub_4120A6",
+  "size": 94,
+  "file": "sub_4120A6_004120a6.c"
+ },
+ {
+  "addr": "0x00405000",
+  "name": "sub_405000",
+  "size": 92,
+  "file": "sub_405000_00405000.c"
+ },
+ {
+  "addr": "0x00405430",
+  "name": "sub_405430",
+  "size": 92,
+  "file": "sub_405430_00405430.c"
+ },
+ {
+  "addr": "0x00408d50",
+  "name": "sub_408D50",
+  "size": 91,
+  "file": "sub_408D50_00408d50.c"
+ },
+ {
+  "addr": "0x0040e6c0",
+  "name": "str_append_w",
+  "size": 91,
+  "file": "str_append_w_0040e6c0.c"
+ },
+ {
+  "addr": "0x0040e660",
+  "name": "mutex_enter",
+  "size": 90,
+  "file": "mutex_enter_0040e660.c"
+ },
+ {
+  "addr": "0x0040d840",
+  "name": "sub_40D840",
+  "size": 89,
+  "file": "sub_40D840_0040d840.c"
+ },
+ {
+  "addr": "0x0040e144",
+  "name": "sub_40E144",
+  "size": 87,
+  "file": "sub_40E144_0040e144.c"
+ },
+ {
+  "addr": "0x00402447",
+  "name": "file_exists",
+  "size": 86,
+  "file": "file_exists_00402447.c"
+ },
+ {
+  "addr": "0x0040994f",
+  "name": "sub_40994F",
+  "size": 86,
+  "file": "sub_40994F_0040994f.c"
+ },
+ {
+  "addr": "0x004108f0",
+  "name": "sub_4108F0",
+  "size": 86,
+  "file": "sub_4108F0_004108f0.c"
+ },
+ {
+  "addr": "0x0040ed40",
+  "name": "sub_40ED40",
+  "size": 85,
+  "file": "sub_40ED40_0040ed40.c"
+ },
+ {
+  "addr": "0x00405700",
+  "name": "w2a",
+  "size": 84,
+  "file": "w2a_00405700.c"
+ },
+ {
+  "addr": "0x0040dbac",
+  "name": "sub_40DBAC",
+  "size": 83,
+  "file": "sub_40DBAC_0040dbac.c"
+ },
+ {
+  "addr": "0x0040ace4",
+  "name": "sub_40ACE4",
+  "size": 81,
+  "file": "sub_40ACE4_0040ace4.c"
+ },
+ {
+  "addr": "0x00412104",
+  "name": "sub_412104",
+  "size": 80,
+  "file": "sub_412104_00412104.c"
+ },
+ {
+  "addr": "0x0040da8a",
+  "name": "sub_40DA8A",
+  "size": 79,
+  "file": "sub_40DA8A_0040da8a.c"
+ },
+ {
+  "addr": "0x00409872",
+  "name": "sub_409872",
+  "size": 78,
+  "file": "sub_409872_00409872.c"
+ },
+ {
+  "addr": "0x0040d7a0",
+  "name": "sub_40D7A0",
+  "size": 78,
+  "file": "sub_40D7A0_0040d7a0.c"
+ },
+ {
+  "addr": "0x0040e780",
+  "name": "sub_40E780",
+  "size": 77,
+  "file": "sub_40E780_0040e780.c"
+ },
+ {
+  "addr": "0x004053e4",
+  "name": "sub_4053E4",
+  "size": 76,
+  "file": "sub_4053E4_004053e4.c"
+ },
+ {
+  "addr": "0x0040e3b9",
+  "name": "sub_40E3B9",
+  "size": 76,
+  "file": "sub_40E3B9_0040e3b9.c"
+ },
+ {
+  "addr": "0x0040a240",
+  "name": "sub_40A240",
+  "size": 75,
+  "file": "sub_40A240_0040a240.c"
+ },
+ {
+  "addr": "0x0040ea40",
+  "name": "sub_40EA40",
+  "size": 75,
+  "file": "sub_40EA40_0040ea40.c"
+ },
+ {
+  "addr": "0x0040552c",
+  "name": "sub_40552C",
+  "size": 71,
+  "file": "sub_40552C_0040552c.c"
+ },
+ {
+  "addr": "0x004098f7",
+  "name": "sub_4098F7",
+  "size": 71,
+  "file": "sub_4098F7_004098f7.c"
+ },
+ {
+  "addr": "0x0040a8e8",
+  "name": "sub_40A8E8",
+  "size": 71,
+  "file": "sub_40A8E8_0040a8e8.c"
+ },
+ {
+  "addr": "0x00402e03",
+  "name": "enum_names_cb",
+  "size": 70,
+  "file": "enum_names_cb_00402e03.c"
+ },
+ {
+  "addr": "0x004062c0",
+  "name": "sub_4062C0",
+  "size": 70,
+  "file": "sub_4062C0_004062c0.c"
+ },
+ {
+  "addr": "0x0040e880",
+  "name": "sub_40E880",
+  "size": 70,
+  "file": "sub_40E880_0040e880.c"
+ },
+ {
+  "addr": "0x0040ae75",
+  "name": "sub_40AE75",
+  "size": 69,
+  "file": "sub_40AE75_0040ae75.c"
+ },
+ {
+  "addr": "0x00409311",
+  "name": "sub_409311",
+  "size": 68,
+  "file": "sub_409311_00409311.c"
+ },
+ {
+  "addr": "0x0040b0c0",
+  "name": "sub_40B0C0",
+  "size": 67,
+  "file": "sub_40B0C0_0040b0c0.c"
+ },
+ {
+  "addr": "0x00405373",
+  "name": "sub_405373",
+  "size": 66,
+  "file": "sub_405373_00405373.c"
+ },
+ {
+  "addr": "0x00406110",
+  "name": "sub_406110",
+  "size": 66,
+  "file": "sub_406110_00406110.c"
+ },
+ {
+  "addr": "0x00408e58",
+  "name": "sub_408E58",
+  "size": 66,
+  "file": "sub_408E58_00408e58.c"
+ },
+ {
+  "addr": "0x0040d7f0",
+  "name": "sub_40D7F0",
+  "size": 66,
+  "file": "sub_40D7F0_0040d7f0.c"
+ },
+ {
+  "addr": "0x004096f9",
+  "name": "sub_4096F9",
+  "size": 65,
+  "file": "sub_4096F9_004096f9.c"
+ },
+ {
+  "addr": "0x0040e1b2",
+  "name": "sub_40E1B2",
+  "size": 64,
+  "file": "sub_40E1B2_0040e1b2.c"
+ },
+ {
+  "addr": "0x0040dad9",
+  "name": "sub_40DAD9",
+  "size": 63,
+  "file": "sub_40DAD9_0040dad9.c"
+ },
+ {
+  "addr": "0x00408db0",
+  "name": "sub_408DB0",
+  "size": 62,
+  "file": "sub_408DB0_00408db0.c"
+ },
+ {
+  "addr": "0x004099c7",
+  "name": "sub_4099C7",
+  "size": 62,
+  "file": "sub_4099C7_004099c7.c"
+ },
+ {
+  "addr": "0x0040d906",
+  "name": "Mem",
+  "size": 62,
+  "file": "Mem_0040d906.c"
+ },
+ {
+  "addr": "0x0040ce4f",
+  "name": "sub_40CE4F",
+  "size": 59,
+  "file": "sub_40CE4F_0040ce4f.c"
+ },
+ {
+  "addr": "0x00411430",
+  "name": "sub_411430",
+  "size": 58,
+  "file": "sub_411430_00411430.c"
+ },
+ {
+  "addr": "0x0041206c",
+  "name": "sub_41206C",
+  "size": 58,
+  "file": "sub_41206C_0041206c.c"
+ },
+ {
+  "addr": "0x00402b6d",
+  "name": "sub_402B6D",
+  "size": 57,
+  "file": "sub_402B6D_00402b6d.c"
+ },
+ {
+  "addr": "0x00408dee",
+  "name": "sub_408DEE",
+  "size": 57,
+  "file": "sub_408DEE_00408dee.c"
+ },
+ {
+  "addr": "0x00405120",
+  "name": "sub_405120",
+  "size": 56,
+  "file": "sub_405120_00405120.c"
+ },
+ {
+  "addr": "0x0040e520",
+  "name": "str_append",
+  "size": 56,
+  "file": "str_append_0040e520.c"
+ },
+ {
+  "addr": "0x004098c0",
+  "name": "sub_4098C0",
+  "size": 55,
+  "file": "sub_4098C0_004098c0.c"
+ },
+ {
+  "addr": "0x0040e620",
+  "name": "sub_40E620",
+  "size": 55,
+  "file": "sub_40E620_0040e620.c"
+ },
+ {
+  "addr": "0x0040ee20",
+  "name": "sub_40EE20",
+  "size": 55,
+  "file": "sub_40EE20_0040ee20.c"
+ },
+ {
+  "addr": "0x004094d1",
+  "name": "sub_4094D1",
+  "size": 54,
+  "file": "sub_4094D1_004094d1.c"
+ },
+ {
+  "addr": "0x0040b991",
+  "name": "sub_40B991",
+  "size": 54,
+  "file": "sub_40B991_0040b991.c"
+ },
+ {
+  "addr": "0x00402033",
+  "name": "enum_types_cb",
+  "size": 53,
+  "file": "enum_types_cb_00402033.c"
+ },
+ {
+  "addr": "0x0040ede0",
+  "name": "sub_40EDE0",
+  "size": 53,
+  "file": "sub_40EDE0_0040ede0.c"
+ },
+ {
+  "addr": "0x0040aae2",
+  "name": "sub_40AAE2",
+  "size": 52,
+  "file": "sub_40AAE2_0040aae2.c"
+ },
+ {
+  "addr": "0x0040a976",
+  "name": "sub_40A976",
+  "size": 51,
+  "file": "sub_40A976_0040a976.c"
+ },
+ {
+  "addr": "0x00408e27",
+  "name": "sub_408E27",
+  "size": 49,
+  "file": "sub_408E27_00408e27.c"
+ },
+ {
+  "addr": "0x0040e9e0",
+  "name": "sub_40E9E0",
+  "size": 48,
+  "file": "sub_40E9E0_0040e9e0.c"
+ },
+ {
+  "addr": "0x00409669",
+  "name": "sub_409669",
+  "size": 47,
+  "file": "sub_409669_00409669.c"
+ },
+ {
+  "addr": "0x0040e1f2",
+  "name": "sub_40E1F2",
+  "size": 47,
+  "file": "sub_40E1F2_0040e1f2.c"
+ },
+ {
+  "addr": "0x0040ae39",
+  "name": "sub_40AE39",
+  "size": 46,
+  "file": "sub_40AE39_0040ae39.c"
+ },
+ {
+  "addr": "0x0040e075",
+  "name": "sub_40E075",
+  "size": 46,
+  "file": "sub_40E075_0040e075.c"
+ },
+ {
+  "addr": "0x0040963c",
+  "name": "sub_40963C",
+  "size": 45,
+  "file": "sub_40963C_0040963c.c"
+ },
+ {
+  "addr": "0x0040a8bb",
+  "name": "sub_40A8BB",
+  "size": 45,
+  "file": "sub_40A8BB_0040a8bb.c"
+ },
+ {
+  "addr": "0x0040a94a",
+  "name": "sub_40A94A",
+  "size": 44,
+  "file": "sub_40A94A_0040a94a.c"
+ },
+ {
+  "addr": "0x0040ea90",
+  "name": "sub_40EA90",
+  "size": 44,
+  "file": "sub_40EA90_0040ea90.c"
+ },
+ {
+  "addr": "0x0040b870",
+  "name": "sub_40B870",
+  "size": 43,
+  "file": "sub_40B870_0040b870.c"
+ },
+ {
+  "addr": "0x0040cdc3",
+  "name": "sub_40CDC3",
+  "size": 43,
+  "file": "sub_40CDC3_0040cdc3.c"
+ },
+ {
+  "addr": "0x0040e23d",
+  "name": "sub_40E23D",
+  "size": 41,
+  "file": "sub_40E23D_0040e23d.c"
+ },
+ {
+  "addr": "0x0040e4d0",
+  "name": "sub_40E4D0",
+  "size": 41,
+  "file": "sub_40E4D0_0040e4d0.c"
+ },
+ {
+  "addr": "0x0040b600",
+  "name": "sub_40B600",
+  "size": 40,
+  "file": "sub_40B600_0040b600.c"
+ },
+ {
+  "addr": "0x0040cef0",
+  "name": "sub_40CEF0",
+  "size": 40,
+  "file": "sub_40CEF0_0040cef0.c"
+ },
+ {
+  "addr": "0x00405de0",
+  "name": "sub_405DE0",
+  "size": 39,
+  "file": "sub_405DE0_00405de0.c"
+ },
+ {
+  "addr": "0x0040e720",
+  "name": "sub_40E720",
+  "size": 38,
+  "file": "sub_40E720_0040e720.c"
+ },
+ {
+  "addr": "0x0040ea10",
+  "name": "sub_40EA10",
+  "size": 37,
+  "file": "sub_40EA10_0040ea10.c"
+ },
+ {
+  "addr": "0x0040d944",
+  "name": "sub_40D944",
+  "size": 36,
+  "file": "sub_40D944_0040d944.c"
+ },
+ {
+  "addr": "0x0040e5f0",
+  "name": "sub_40E5F0",
+  "size": 36,
+  "file": "sub_40E5F0_0040e5f0.c"
+ },
+ {
+  "addr": "0x004053c1",
+  "name": "sub_4053C1",
+  "size": 35,
+  "file": "sub_4053C1_004053c1.c"
+ },
+ {
+  "addr": "0x004099a5",
+  "name": "sub_4099A5",
+  "size": 34,
+  "file": "sub_4099A5_004099a5.c"
+ },
+ {
+  "addr": "0x0040a52d",
+  "name": "sub_40A52D",
+  "size": 34,
+  "file": "sub_40A52D_0040a52d.c"
+ },
+ {
+  "addr": "0x0040e750",
+  "name": "sub_40E750",
+  "size": 34,
+  "file": "sub_40E750_0040e750.c"
+ },
+ {
+  "addr": "0x004056d8",
+  "name": "sub_4056D8",
+  "size": 33,
+  "file": "sub_4056D8_004056d8.c"
+ },
+ {
+  "addr": "0x0040e8d0",
+  "name": "sub_40E8D0",
+  "size": 33,
+  "file": "sub_40E8D0_0040e8d0.c"
+ },
+ {
+  "addr": "0x0040efc0",
+  "name": "sub_40EFC0",
+  "size": 33,
+  "file": "sub_40EFC0_0040efc0.c"
+ },
+ {
+  "addr": "0x00409f4c",
+  "name": "sub_409F4C",
+  "size": 32,
+  "file": "sub_409F4C_00409f4c.c"
+ },
+ {
+  "addr": "0x0040a300",
+  "name": "xmemcpy",
+  "size": 32,
+  "file": "xmemcpy_0040a300.c"
+ },
+ {
+  "addr": "0x004011d0",
+  "name": "sub_4011D0",
+  "size": 31,
+  "file": "sub_4011D0_004011d0.c"
+ },
+ {
+  "addr": "0x004092f2",
+  "name": "sub_4092F2",
+  "size": 31,
+  "file": "sub_4092F2_004092f2.c"
+ },
+ {
+  "addr": "0x0040a1e0",
+  "name": "sub_40A1E0",
+  "size": 31,
+  "file": "sub_40A1E0_0040a1e0.c"
+ },
+ {
+  "addr": "0x0040a220",
+  "name": "xmalloc",
+  "size": 31,
+  "file": "xmalloc_0040a220.c"
+ },
+ {
+  "addr": "0x0040a441",
+  "name": "sub_40A441",
+  "size": 31,
+  "file": "sub_40A441_0040a441.c"
+ },
+ {
+  "addr": "0x0040a9a9",
+  "name": "sub_40A9A9",
+  "size": 31,
+  "file": "sub_40A9A9_0040a9a9.c"
+ },
+ {
+  "addr": "0x00406650",
+  "name": "sub_406650",
+  "size": 30,
+  "file": "sub_406650_00406650.c"
+ },
+ {
+  "addr": "0x0040d6cd",
+  "name": "sub_40D6CD",
+  "size": 30,
+  "file": "sub_40D6CD_0040d6cd.c"
+ },
+ {
+  "addr": "0x0040e500",
+  "name": "sub_40E500",
+  "size": 30,
+  "file": "sub_40E500_0040e500.c"
+ },
+ {
+  "addr": "0x00405dc0",
+  "name": "sub_405DC0",
+  "size": 28,
+  "file": "sub_405DC0_00405dc0.c"
+ },
+ {
+  "addr": "0x00406fb0",
+  "name": "sub_406FB0",
+  "size": 28,
+  "file": "sub_406FB0_00406fb0.c"
+ },
+ {
+  "addr": "0x0040e221",
+  "name": "sub_40E221",
+  "size": 28,
+  "file": "sub_40E221_0040e221.c"
+ },
+ {
+  "addr": "0x0040a92f",
+  "name": "sub_40A92F",
+  "size": 27,
+  "file": "sub_40A92F_0040a92f.c"
+ },
+ {
+  "addr": "0x0040b89b",
+  "name": "sub_40B89B",
+  "size": 27,
+  "file": "sub_40B89B_0040b89b.c"
+ },
+ {
+  "addr": "0x0040cdee",
+  "name": "sub_40CDEE",
+  "size": 27,
+  "file": "sub_40CDEE_0040cdee.c"
+ },
+ {
+  "addr": "0x00405da0",
+  "name": "sub_405DA0",
+  "size": 26,
+  "file": "sub_405DA0_00405da0.c"
+ },
+ {
+  "addr": "0x00408e9a",
+  "name": "sub_408E9A",
+  "size": 26,
+  "file": "sub_408E9A_00408e9a.c"
+ },
+ {
+  "addr": "0x00409a05",
+  "name": "sub_409A05",
+  "size": 26,
+  "file": "sub_409A05_00409a05.c"
+ },
+ {
+  "addr": "0x0040ee60",
+  "name": "zlib_inflate_blob",
+  "size": 26,
+  "file": "zlib_inflate_blob_0040ee60.c"
+ },
+ {
+  "addr": "0x0040b330",
+  "name": "sub_40B330",
+  "size": 25,
+  "file": "sub_40B330_0040b330.c"
+ },
+ {
+  "addr": "0x0040b420",
+  "name": "sub_40B420",
+  "size": 25,
+  "file": "sub_40B420_0040b420.c"
+ },
+ {
+  "addr": "0x00409fd0",
+  "name": "sub_409FD0",
+  "size": 23,
+  "file": "sub_409FD0_00409fd0.c"
+ },
+ {
+  "addr": "0x0040e19b",
+  "name": "sub_40E19B",
+  "size": 23,
+  "file": "sub_40E19B_0040e19b.c"
+ },
+ {
+  "addr": "0x004108d0",
+  "name": "sub_4108D0",
+  "size": 23,
+  "file": "sub_4108D0_004108d0.c"
+ },
+ {
+  "addr": "0x00409fb0",
+  "name": "sub_409FB0",
+  "size": 22,
+  "file": "sub_409FB0_00409fb0.c"
+ },
+ {
+  "addr": "0x0040b814",
+  "name": "sub_40B814",
+  "size": 22,
+  "file": "sub_40B814_0040b814.c"
+ },
+ {
+  "addr": "0x0040cd6c",
+  "name": "sub_40CD6C",
+  "size": 22,
+  "file": "sub_40CD6C_0040cd6c.c"
+ },
+ {
+  "addr": "0x0040d780",
+  "name": "sub_40D780",
+  "size": 22,
+  "file": "sub_40D780_0040d780.c"
+ },
+ {
+  "addr": "0x00406060",
+  "name": "sub_406060",
+  "size": 21,
+  "file": "sub_406060_00406060.c"
+ },
+ {
+  "addr": "0x0040a1c0",
+  "name": "sub_40A1C0",
+  "size": 21,
+  "file": "sub_40A1C0_0040a1c0.c"
+ },
+ {
+  "addr": "0x0040a200",
+  "name": "sub_40A200",
+  "size": 21,
+  "file": "sub_40A200_0040a200.c"
+ },
+ {
+  "addr": "0x0040aacd",
+  "name": "sub_40AACD",
+  "size": 21,
+  "file": "sub_40AACD_0040aacd.c"
+ },
+ {
+  "addr": "0x0040b82a",
+  "name": "sub_40B82A",
+  "size": 21,
+  "file": "sub_40B82A_0040b82a.c"
+ },
+ {
+  "addr": "0x0040cd82",
+  "name": "sub_40CD82",
+  "size": 21,
+  "file": "sub_40CD82_0040cd82.c"
+ },
+ {
+  "addr": "0x004059c0",
+  "name": "sub_4059C0",
+  "size": 20,
+  "file": "sub_4059C0_004059c0.c"
+ },
+ {
+  "addr": "0x0040985e",
+  "name": "sub_40985E",
+  "size": 20,
+  "file": "sub_40985E_0040985e.c"
+ },
+ {
+  "addr": "0x0040b120",
+  "name": "sub_40B120",
+  "size": 20,
+  "file": "sub_40B120_0040b120.c"
+ },
+ {
+  "addr": "0x0040e0a3",
+  "name": "sub_40E0A3",
+  "size": 20,
+  "file": "sub_40E0A3_0040e0a3.c"
+ },
+ {
+  "addr": "0x00412040",
+  "name": "sub_412040",
+  "size": 20,
+  "file": "sub_412040_00412040.c"
+ },
+ {
+  "addr": "0x0040e062",
+  "name": "sub_40E062",
+  "size": 19,
+  "file": "sub_40E062_0040e062.c"
+ },
+ {
+  "addr": "0x00405170",
+  "name": "sub_405170",
+  "size": 18,
+  "file": "sub_405170_00405170.c"
+ },
+ {
+  "addr": "0x0040a190",
+  "name": "sub_40A190",
+  "size": 18,
+  "file": "sub_40A190_0040a190.c"
+ },
+ {
+  "addr": "0x0040afda",
+  "name": "sub_40AFDA",
+  "size": 18,
+  "file": "sub_40AFDA_0040afda.c"
+ },
+ {
+  "addr": "0x00410c80",
+  "name": "sub_410C80",
+  "size": 18,
+  "file": "sub_410C80_00410c80.c"
+ },
+ {
+  "addr": "0x0040993e",
+  "name": "sub_40993E",
+  "size": 17,
+  "file": "sub_40993E_0040993e.c"
+ },
+ {
+  "addr": "0x0040adc5",
+  "name": "sub_40ADC5",
+  "size": 17,
+  "file": "sub_40ADC5_0040adc5.c"
+ },
+ {
+  "addr": "0x0040477d",
+  "name": "buf_length",
+  "size": 16,
+  "file": "buf_length_0040477d.c"
+ },
+ {
+  "addr": "0x00405182",
+  "name": "sub_405182",
+  "size": 16,
+  "file": "sub_405182_00405182.c"
+ },
+ {
+  "addr": "0x004051a0",
+  "name": "sub_4051A0",
+  "size": 16,
+  "file": "sub_4051A0_004051a0.c"
+ },
+ {
+  "addr": "0x0040ad35",
+  "name": "sub_40AD35",
+  "size": 16,
+  "file": "sub_40AD35_0040ad35.c"
+ },
+ {
+  "addr": "0x00405160",
+  "name": "sub_405160",
+  "size": 14,
+  "file": "sub_405160_00405160.c"
+ },
+ {
+  "addr": "0x0040a81c",
+  "name": "sub_40A81C",
+  "size": 14,
+  "file": "sub_40A81C_0040a81c.c"
+ },
+ {
+  "addr": "0x0040ae67",
+  "name": "sub_40AE67",
+  "size": 14,
+  "file": "sub_40AE67_0040ae67.c"
+ },
+ {
+  "addr": "0x0040a1b0",
+  "name": "sub_40A1B0",
+  "size": 13,
+  "file": "sub_40A1B0_0040a1b0.c"
+ },
+ {
+  "addr": "0x00412830",
+  "name": "sub_412830",
+  "size": 13,
+  "file": "sub_412830_00412830.c"
+ },
+ {
+  "addr": "0x004053b5",
+  "name": "sub_4053B5",
+  "size": 12,
+  "file": "sub_4053B5_004053b5.c"
+ },
+ {
+  "addr": "0x0040a320",
+  "name": "sub_40A320",
+  "size": 12,
+  "file": "sub_40A320_0040a320.c"
+ },
+ {
+  "addr": "0x0040b110",
+  "name": "sub_40B110",
+  "size": 12,
+  "file": "sub_40B110_0040b110.c"
+ },
+ {
+  "addr": "0x00412060",
+  "name": "sub_412060",
+  "size": 12,
+  "file": "sub_412060_00412060.c"
+ },
+ {
+  "addr": "0x0040aac3",
+  "name": "sub_40AAC3",
+  "size": 10,
+  "file": "sub_40AAC3_0040aac3.c"
+ },
+ {
+  "addr": "0x00405110",
+  "name": "sub_405110",
+  "size": 9,
+  "file": "sub_405110_00405110.c"
+ },
+ {
+  "addr": "0x00405060",
+  "name": "str_init",
+  "size": 8,
+  "file": "str_init_00405060.c"
+ },
+ {
+  "addr": "0x00405068",
+  "name": "sub_405068",
+  "size": 8,
+  "file": "sub_405068_00405068.c"
+ },
+ {
+  "addr": "0x00405070",
+  "name": "memset",
+  "size": 6,
+  "file": "memset_00405070.c"
+ },
+ {
+  "addr": "0x00405076",
+  "name": "GetModuleHandleW",
+  "size": 6,
+  "file": "GetModuleHandleW_00405076.c"
+ },
+ {
+  "addr": "0x0040507c",
+  "name": "HeapCreate",
+  "size": 6,
+  "file": "HeapCreate_0040507c.c"
+ },
+ {
+  "addr": "0x00405082",
+  "name": "GetStdHandle",
+  "size": 6,
+  "file": "GetStdHandle_00405082.c"
+ },
+ {
+  "addr": "0x00405088",
+  "name": "SetConsoleCtrlHandler",
+  "size": 6,
+  "file": "SetConsoleCtrlHandler_00405088.c"
+ },
+ {
+  "addr": "0x0040508e",
+  "name": "HeapDestroy",
+  "size": 6,
+  "file": "HeapDestroy_0040508e.c"
+ },
+ {
+  "addr": "0x00405094",
+  "name": "ExitProcess",
+  "size": 6,
+  "file": "ExitProcess_00405094.c"
+ },
+ {
+  "addr": "0x0040509a",
+  "name": "WriteFile",
+  "size": 6,
+  "file": "WriteFile_0040509a.c"
+ },
+ {
+  "addr": "0x004050a0",
+  "name": "GetTempFileNameW",
+  "size": 6,
+  "file": "GetTempFileNameW_004050a0.c"
+ },
+ {
+  "addr": "0x004050a6",
+  "name": "LoadLibraryExW",
+  "size": 6,
+  "file": "LoadLibraryExW_004050a6.c"
+ },
+ {
+  "addr": "0x004050ac",
+  "name": "EnumResourceTypesW",
+  "size": 6,
+  "file": "EnumResourceTypesW_004050ac.c"
+ },
+ {
+  "addr": "0x004050b2",
+  "name": "FreeLibrary",
+  "size": 6,
+  "file": "FreeLibrary_004050b2.c"
+ },
+ {
+  "addr": "0x004050b8",
+  "name": "RemoveDirectoryW",
+  "size": 6,
+  "file": "RemoveDirectoryW_004050b8.c"
+ },
+ {
+  "addr": "0x004050be",
+  "name": "EnumResourceNamesW",
+  "size": 6,
+  "file": "EnumResourceNamesW_004050be.c"
+ },
+ {
+  "addr": "0x004050c4",
+  "name": "GetCommandLineW",
+  "size": 6,
+  "file": "GetCommandLineW_004050c4.c"
+ },
+ {
+  "addr": "0x004050ca",
+  "name": "LoadResource",
+  "size": 6,
+  "file": "LoadResource_004050ca.c"
+ },
+ {
+  "addr": "0x004050d0",
+  "name": "SizeofResource",
+  "size": 6,
+  "file": "SizeofResource_004050d0.c"
+ },
+ {
+  "addr": "0x004050d6",
+  "name": "FreeResource",
+  "size": 6,
+  "file": "FreeResource_004050d6.c"
+ },
+ {
+  "addr": "0x004050dc",
+  "name": "FindResourceW",
+  "size": 6,
+  "file": "FindResourceW_004050dc.c"
+ },
+ {
+  "addr": "0x004050e2",
+  "name": "GetNativeSystemInfo",
+  "size": 6,
+  "file": "GetNativeSystemInfo_004050e2.c"
+ },
+ {
+  "addr": "0x004050e8",
+  "name": "GetShortPathNameW",
+  "size": 6,
+  "file": "GetShortPathNameW_004050e8.c"
+ },
+ {
+  "addr": "0x004050ee",
+  "name": "GetWindowsDirectoryW",
+  "size": 6,
+  "file": "GetWindowsDirectoryW_004050ee.c"
+ },
+ {
+  "addr": "0x004050f4",
+  "name": "GetSystemDirectoryW",
+  "size": 6,
+  "file": "GetSystemDirectoryW_004050f4.c"
+ },
+ {
+  "addr": "0x004052f5",
+  "name": "wcsncmp",
+  "size": 6,
+  "file": "wcsncmp_004052f5.c"
+ },
+ {
+  "addr": "0x004052fb",
+  "name": "memmove",
+  "size": 6,
+  "file": "memmove_004052fb.c"
+ },
+ {
+  "addr": "0x00405301",
+  "name": "wcsncpy",
+  "size": 6,
+  "file": "wcsncpy_00405301.c"
+ },
+ {
+  "addr": "0x00405307",
+  "name": "wcsstr",
+  "size": 6,
+  "file": "wcsstr_00405307.c"
+ },
+ {
+  "addr": "0x0040530d",
+  "name": "_wcsnicmp",
+  "size": 6,
+  "file": "_wcsnicmp_0040530d.c"
+ },
+ {
+  "addr": "0x00405313",
+  "name": "_wcsdup",
+  "size": 6,
+  "file": "_wcsdup_00405313.c"
+ },
+ {
+  "addr": "0x00405319",
+  "name": "free",
+  "size": 6,
+  "file": "free_00405319.c"
+ },
+ {
+  "addr": "0x0040531f",
+  "name": "_wcsicmp",
+  "size": 6,
+  "file": "_wcsicmp_0040531f.c"
+ },
+ {
+  "addr": "0x00405325",
+  "name": "wcslen",
+  "size": 6,
+  "file": "wcslen_00405325.c"
+ },
+ {
+  "addr": "0x0040532b",
+  "name": "wcscpy",
+  "size": 6,
+  "file": "wcscpy_0040532b.c"
+ },
+ {
+  "addr": "0x00405331",
+  "name": "wcscmp",
+  "size": 6,
+  "file": "wcscmp_00405331.c"
+ },
+ {
+  "addr": "0x00405337",
+  "name": "wcscat",
+  "size": 6,
+  "file": "wcscat_00405337.c"
+ },
+ {
+  "addr": "0x0040533d",
+  "name": "memcpy",
+  "size": 6,
+  "file": "memcpy_0040533d.c"
+ },
+ {
+  "addr": "0x00405343",
+  "name": "tolower",
+  "size": 6,
+  "file": "tolower_00405343.c"
+ },
+ {
+  "addr": "0x00405349",
+  "name": "malloc",
+  "size": 6,
+  "file": "malloc_00405349.c"
+ },
+ {
+  "addr": "0x0040534f",
+  "name": "TlsGetValue",
+  "size": 6,
+  "file": "TlsGetValue_0040534f.c"
+ },
+ {
+  "addr": "0x00405355",
+  "name": "PathAddBackslashW",
+  "size": 6,
+  "file": "PathAddBackslashW_00405355.c"
+ },
+ {
+  "addr": "0x0040535b",
+  "name": "PathRenameExtensionW",
+  "size": 6,
+  "file": "PathRenameExtensionW_0040535b.c"
+ },
+ {
+  "addr": "0x00405361",
+  "name": "PathQuoteSpacesW",
+  "size": 6,
+  "file": "PathQuoteSpacesW_00405361.c"
+ },
+ {
+  "addr": "0x00405367",
+  "name": "PathRemoveArgsW",
+  "size": 6,
+  "file": "PathRemoveArgsW_00405367.c"
+ },
+ {
+  "addr": "0x0040536d",
+  "name": "PathRemoveBackslashW",
+  "size": 6,
+  "file": "PathRemoveBackslashW_0040536d.c"
+ },
+ {
+  "addr": "0x0040e3b4",
+  "name": "sub_40E3B4",
+  "size": 5,
+  "file": "sub_40E3B4_0040e3b4.c"
+ },
+ {
+  "addr": "0x00411490",
+  "name": "sub_411490",
+  "size": 5,
+  "file": "sub_411490_00411490.c"
+ },
+ {
+  "addr": "0x00405100",
+  "name": "sub_405100",
+  "size": 4,
+  "file": "sub_405100_00405100.c"
+ }
+]

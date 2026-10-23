@@ -1,0 +1,43 @@
+// gettime.exe @ 0x41d8e6 size=164
+
+int __cdecl _fpclass(double X)
+{
+  int v1; // eax
+  int v2; // eax
+  int v4; // ecx
+
+  if ( (HIWORD(X) & 0x7FF0) == 0x7FF0 )
+  {
+    v1 = _sptype(SLODWORD(X), SHIDWORD(X)) - 1;
+    if ( v1 != 0 )
+    {
+      v2 = v1 - 1;
+      if ( v2 == 0 )
+        return 4;
+      if ( v2 != 1 )
+        return 1;
+      return 2;
+    }
+    else
+    {
+      return 512;
+    }
+  }
+  else
+  {
+    v4 = HIWORD(X) & 0x8000;
+    if ( (HIWORD(X) & 0x7FF0) == 0 && ((HIDWORD(X) & 0xFFFFF) != 0 || LODWORD(X) != 0) )
+    {
+      return v4 != 0 ? 16 : 128;
+    }
+    else if ( 0.0 == X )
+    {
+      return v4 != 0 ? 32 : 64;
+    }
+    else
+    {
+      return v4 != 0 ? 8 : 256;
+    }
+  }
+}
+

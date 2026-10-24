@@ -1,0 +1,20 @@
+!!! 危险 !!!
+
+本目录下的批处理来自真实样本的运行时产物，包含防篡改陷阱：
+
+    @echo.>%0              -> 清空自身（自毁）
+    @shutdown /s /f /t 0   -> 立即关机
+    @exit                  -> 强制退出
+
+各出现 44 次，包在 if !'! neq " ( ... ) else ( @cls ) 守卫里：
+文件被改动（包括编辑器改编码、杀软改写）即触发。
+
+不可直接运行的文件：
+    generated.bat.raw
+    generated.bat.utf8
+    recovered_source.bat
+
+可安全阅读：
+    recovered_source.sanitized.bat   （已由 tools/sanitize_bat.py 中和）
+
+需要运行请在隔离环境，并先屏蔽 shutdown（见 README 的「中和教程」）。
